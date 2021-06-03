@@ -719,6 +719,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/minitest-5.8.5/test" />
       </excluded>
     </library>
+    <library name="mysql2 (v0.4.6, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/support" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/support" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/support" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mysql2-0.4.6/examples" />
+      </excluded>
+    </library>
     <library name="net-telnet (v0.1.1, rbenv: 2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
