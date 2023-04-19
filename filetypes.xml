@@ -6,6 +6,7 @@
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="exec.rb" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
